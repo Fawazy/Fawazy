@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Fawaz Yahya
 
-I am a Data Analyst with experience designing KPI-driven reporting solutions using **Power BI, Power Query, SQL, and Excel**. Currently pursuing an **MSc in Data Science & Analytics**, with applied experience in data transformation, relational modeling, and large-scale structured data analysis.
+I am a Data Analyst with experience designing KPI-driven reporting solutions using **Power BI, Power Query, SQL, and Excel**. I recently completed and hold a **MSc in Data Science & Analytics**, with applied experience in data transformation, relational modeling, and large scale structured data analysis.
 
-I specialize in transforming multi-source datasets into structured, decision-ready reporting models that support operational and strategic decision-making.
+I specialize in transforming multi source datasets into structured, decision ready reporting models that support operational and strategic decision making.
 
 ---
 
@@ -44,17 +44,3 @@ I specialize in transforming multi-source datasets into structured, decision-rea
 
 ---
 > Focused on building structured, scalable reporting solutions that turn data into measurable business insight.
-<!--
-**Fawazy/Fawazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
